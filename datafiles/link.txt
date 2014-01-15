@@ -1,2 +1,0 @@
-Download this rar file and extract them, and put the datafiles directory in the same directory of BookmarkMe script (beside modules)
-Link: https://www.mediafire.com/?73kkyyl69l4rlku
